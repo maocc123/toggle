@@ -1,3 +1,3 @@
 # toggle
-picture_toggle
-native Javascrrpt to write demo
+# picture_toggle
+native Javascript to write demo
